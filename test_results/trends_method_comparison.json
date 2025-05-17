@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-05-14T16:49:13.886367",
+  "batch_results": {
+    "Canadian immigration": 24,
+    "Express Entry Canada": 20,
+    "Canada PNP": 6,
+    "Study permit Canada": 27
+  },
+  "serpapi_results": {
+    "Canadian immigration": 24,
+    "Express Entry Canada": 20,
+    "Canada PNP": 6,
+    "Study permit Canada": 27
+  },
+  "pytrends_results": {
+    "Canadian immigration": 26,
+    "Express Entry Canada": 19,
+    "Canada PNP": 9,
+    "Study permit Canada": 28
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "keyword": "Express Entry",
+    "category": "\u7b7e\u8bc1\u7c7b\u522b",
+    "base_score": 23,
+    "weighted_score": 27.599999999999998,
+    "type": "news_article"
+  },
+  {
+    "keyword": "PNP",
+    "category": "\u79fb\u6c11\u8def\u5f84",
+    "base_score": 13,
+    "weighted_score": 14.3,
+    "type": "news_article"
+  },
+  {
+    "keyword": "IRCC",
+    "category": "\u653f\u7b56\u548c\u673a\u6784",
+    "base_score": 56,
+    "weighted_score": 72.8,
+    "type": "news_article"
+  },
+  {
+    "keyword": "NOC",
+    "category": "\u653f\u7b56\u548c\u673a\u6784",
+    "base_score": 32,
+    "weighted_score": 41.6,
+    "type": "news_article"
+  },
+  {
+    "keyword": "Canada immigration",
+    "category": "\u7b7e\u8bc1\u7c7b\u522b",
+    "base_score": 21,
+    "weighted_score": 25.2,
+    "type": "news_article"
+  }
+]

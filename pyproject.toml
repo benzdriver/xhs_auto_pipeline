@@ -1,0 +1,8 @@
+dependencies = [
+    "requests>=2.25.0",
+    "beautifulsoup4>=4.9.0",
+    "python-dotenv>=0.15.0",
+    "twocaptcha>=0.0.1",
+    "playwright>=1.20.0",
+    "pytrends>=4.9.0",
+] 

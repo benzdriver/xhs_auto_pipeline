@@ -66,3 +66,4 @@ tzdata==2025.2
 uritemplate==4.1.1
 urllib3==2.4.0
 zstandard==0.23.0
+web_scraping_toolkit @ git+https://github.com/benzdriver/web_scraping_toolkit.git@v0.1.0

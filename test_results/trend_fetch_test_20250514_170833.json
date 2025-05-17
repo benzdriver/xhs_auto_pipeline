@@ -1,0 +1,58 @@
+{
+  "timestamp": "2025-05-14T17:08:33.265026",
+  "duration_seconds": 10.965658903121948,
+  "results": {
+    "Express Entry": 23,
+    "Canadian immigration": 24,
+    "Study permit Canada": 27,
+    "Work permit Canada": 52,
+    "Canada PNP": 6,
+    "IRCC processing time": 16,
+    "CRS score calculator": 17,
+    "Immigration lawyer Canada": 0,
+    "Canada PR points": 1,
+    "NOC code": 44
+  },
+  "sorted_results": [
+    {
+      "keyword": "Work permit Canada",
+      "score": 52
+    },
+    {
+      "keyword": "NOC code",
+      "score": 44
+    },
+    {
+      "keyword": "Study permit Canada",
+      "score": 27
+    },
+    {
+      "keyword": "Canadian immigration",
+      "score": 24
+    },
+    {
+      "keyword": "Express Entry",
+      "score": 23
+    },
+    {
+      "keyword": "CRS score calculator",
+      "score": 17
+    },
+    {
+      "keyword": "IRCC processing time",
+      "score": 16
+    },
+    {
+      "keyword": "Canada PNP",
+      "score": 6
+    },
+    {
+      "keyword": "Canada PR points",
+      "score": 1
+    },
+    {
+      "keyword": "Immigration lawyer Canada",
+      "score": 0
+    }
+  ]
+}

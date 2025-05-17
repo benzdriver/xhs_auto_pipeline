@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "web_scraping_toolkit"
+version = "0.1.0"
+authors = [
+  {name = "Ziyan Zhou", email = "benz92124@gmail.com"},
+]
+description = "A toolkit for web scraping with advanced features like proxy rotation, captcha solving, and cache management"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "requests>=2.25.0",
+    "beautifulsoup4>=4.9.0",
+    "python-dotenv>=0.15.0",
+    "2captcha-python>=1.5.1",
+    "playwright>=1.20.0",
+    "pytrends>=4.9.0",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/benzdriver/web_scraping_toolkit"
+"Bug Tracker" = "https://github.com/benzdriver/web_scraping_toolkit/issues" 

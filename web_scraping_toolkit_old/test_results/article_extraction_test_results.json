@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-05-14T14:51:40.409773",
+  "results": {
+    "https://www.cicnews.com/2023/05/canada-welcomes-over-26000-new-immigrants-in-march-0526544.html": {
+      "success": false,
+      "reason": "No content returned"
+    },
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/04/canada-launches-new-international-health-care-worker-immigration-pathway.html": {
+      "success": true,
+      "length": 245,
+      "preview": "We couldn't find that Web page\n\nError 404\n\nWe're sorry you ended up here. Sometimes a page gets moved or deleted, but hopefully we can help you find what you're looking for. What next?\n\nReturn to the ..."
+    },
+    "https://www.ctvnews.ca/canada/canada-unveils-new-pathways-for-foreign-healthcare-workers-to-get-permanent-residency-1.6364977": {
+      "success": true,
+      "length": 1526,
+      "preview": "ADVERTISEMENT\n\n404\n\nWe can't seem to find the page you're looking for\n\nPlease double-check the spelling in the URL or here are some helpful links instead:\n\nLocal\nCTV News App\nWatch\nCTV News Now\nIn Pic..."
+    }
+  }
+}
